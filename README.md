@@ -5,3 +5,5 @@ SchoolCalendar
 “2016-2017学年度第二学期校历” 微信小程序 -- 改进版2017/03/04
 
 by heal7
+
+SchoolCalendar/SchoolCalendar-单月视图.png
