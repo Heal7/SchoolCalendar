@@ -6,4 +6,4 @@ SchoolCalendar
 
 by heal7
 
-![Image text](https://raw.github.com/heal/repositpry/master/SchoolCalendar/SchoolCalendar-单月视图.png)
+![Image](https://github.com/Heal7/SchoolCalendar/raw/master/SchoolCalendar-单月视图.png)
